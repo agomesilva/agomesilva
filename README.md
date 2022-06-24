@@ -11,11 +11,6 @@ My name is Angelina Gomes! I'm A software developer based in Bilbao and Luanda ,
 
 - **Check out my blog on** [Medium](https://medium.com/@agomesilva), where I post web dev tutorials: In my last tutorial I show you how to work with gatsbyjs, a React Framework.  
 
-**Say Hi:** [Email](angelinagomes.fr@gmail.com), [LinkedIn](https://www.linkedin.com/in/angelina-gomes-62112b152/).
-
-⭐️ From [agomesilva](https://github.com/agomesilva)
-
-
 ### Tech & Tools Preference
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
@@ -30,8 +25,10 @@ My name is Angelina Gomes! I'm A software developer based in Bilbao and Luanda ,
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
 
-
 ### Other Languages I'm learning
 <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 
 
+**Say Hi:** [Email](angelinagomes.fr@gmail.com), [LinkedIn](https://www.linkedin.com/in/angelina-gomes-62112b152/).
+
+⭐️ From [agomesilva](https://github.com/agomesilva)
