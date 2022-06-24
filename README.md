@@ -29,6 +29,8 @@ My name is Angelina Gomes! I'm A software developer based in Bilbao and Luanda ,
 <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 
 
+---
+
 **Say Hi:** [Email](angelinagomes.fr@gmail.com), [LinkedIn](https://www.linkedin.com/in/angelina-gomes-62112b152/).
 
 ⭐️ From [agomesilva](https://github.com/agomesilva)
