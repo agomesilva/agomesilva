@@ -9,7 +9,7 @@ My name is Angelina Gomes! I'm A software developer based in Bilbao and Luanda ,
 - 📚 Learning competitive coding and software engineering.
 - 🔭 Currently working on some side projects based on web Development and software engineering.
 
-- **Check out my blog on** [Medium](https://medium.com/@agomesilva), where I post web dev tutorials: In my last tutorial I show you how to work with gatsbyjs, a React Framework.  
+- **Check out my blog on** [Medium](https://medium.com/@agomesilva), where I post web dev tutorials: In my last tutorial I show you how to work with gatsbyjs a React Framework.  
 
 ### Tech & Tools Preference
 
