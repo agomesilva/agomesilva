@@ -1,5 +1,20 @@
 
----
+
+## Hey there 👋
+My name is Angelina Gomes! I'm A software developer based in Bilbao and Luanda , who is passionate about writing code, solving problems, and building stuffs.
+
+#### *Always Exploring new web technologies*
+- A self-taught software developer and Open Source enthusiast.
+- 🌱 currently learning  backend web development using NodeJS, ExpressJS and MongoDB. 
+- 📚 Learning competitive coding and software engineering.
+- 🔭 Currently working on some side projects based on web Development and software engineering.
+
+- **Check out my blog on** [Medium](https://medium.com/@agomesilva), where I post web dev tutorials: In my last tutorial I show you how to work with gatsbyjs, a React Framework.  
+
+**Say Hi:** [Email](angelinagomes.fr@gmail.com), [LinkedIn](https://www.linkedin.com/in/angelina-gomes-62112b152/).
+
+⭐️ From [agomesilva](https://github.com/agomesilva)
+
 
 ### Tech & Tools Preference
 
@@ -19,4 +34,4 @@
 ### Other Languages I'm learning
 <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 
----
+
