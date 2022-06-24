@@ -1,7 +1,7 @@
 
 
 ## Hey there 👋
-My name is Angelina Gomes! I'm A software developer based in Bilbao and Luanda , who is passionate about writing code, solving problems, and building stuffs.
+My name is Angelina Gomes! I'm a software developer based in Bilbao and Luanda , who is passionate about writing code, solving problems, and building stuffs.
 
 #### *Always Exploring new web technologies*
 - A self-taught software developer and Open Source enthusiast.
